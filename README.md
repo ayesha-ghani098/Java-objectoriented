@@ -1,6 +1,6 @@
 # Java-objectoriented
 
-learned about OOP concepts through different Assignments.
+learned OOP concepts through different Assignments.
 # Outline of Concepts
 
 # Introduction
