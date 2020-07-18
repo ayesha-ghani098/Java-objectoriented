@@ -27,4 +27,3 @@ and Classes, Downcasting.
 # Interfaces 
 Creating and Using Interfaces, Case study: Payroll System using Interfaces, Declaring Constants with Interfaces, common Interfaces 
 of the Java API.
-
